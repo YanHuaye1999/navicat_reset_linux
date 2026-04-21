@@ -1,6 +1,8 @@
 # navicat_reset_linux
 linux版本navicat重置脚本
 
+已验证navicat版本：17.3.8
+
 赋予执行权限：
 
 ```chmod +x reset_navicat.sh```
