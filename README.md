@@ -1,0 +1,2 @@
+# navicat_reset_linux
+linux版本navicat重置脚本
